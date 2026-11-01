@@ -1,8 +1,8 @@
 """Builds real-image collage covers for the Nuvio Test profile.
 
-Runs on GitHub Actions every week. Folders in REFRESH get fresh stills from
-TMDB each run (current trending / new streaming releases). Every other folder
-uses the stills saved in xp/plan.json. No generated art: only TMDB backdrops.
+Runs on GitHub Actions every week. Folders in REFRESH (or with a "q" entry in
+xp/plan.json) get fresh stills from TMDB each run. Every other folder uses the
+stills saved in xp/plan.json. No generated art: only TMDB backdrops.
 """
 import datetime as dt, io, json, os, sys, urllib.parse, urllib.request
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
@@ -91,10 +91,11 @@ def main():
     for key, item in plan.items():
         if only and key not in only and "all" not in only:
             continue
-        paths = item["b"]
-        if key in REFRESH and TOKEN:
+        paths = item.get("b", [])
+        src = REFRESH.get(key) or item.get("q")   # "q": TMDB queries for folders that rotate
+        if src and TOKEN:
             try:
-                fresh = tmdb_backdrops(REFRESH[key])
+                fresh = tmdb_backdrops(src)
                 if len(fresh) >= 4:
                     paths = item["b"] = fresh
             except Exception as e:
