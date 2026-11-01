@@ -876,7 +876,7 @@
   "t": "FOR YOU (TOP 100 TODAY)",
   "b": [
    "/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
-   "/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+   "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
    "/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
    "/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg"
   ]
@@ -928,7 +928,12 @@
  },
  "studios/adult-swim": {
   "t": "ADULT SWIM",
-  "b": [],
+  "b": [
+   "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+   "/mofoDq8K1tvhSKE00NrlLkS7Mrg.jpg",
+   "/fgcSUbheJ2nml1g7y5QNvR4s16d.jpg",
+   "/5QWdGKrPWJQ3WcafuYA2PXL6uQG.jpg"
+  ],
   "q": [
    "discover/tv?with_networks=80&sort_by=popularity.desc&include_adult=false",
    "discover/tv?with_networks=80&sort_by=vote_count.desc&include_adult=false"
