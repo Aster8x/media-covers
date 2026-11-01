@@ -1,0 +1,32 @@
+name: Weekly covers
+on:
+  schedule:
+    - cron: "17 9 * * 1"   # every Monday
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Build covers
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+            python scripts/build_covers.py trending/for-you-top-100-today trending/trending trending/popular trending/most-popular-top-20 new-latest/digital-releases new-latest/latest-releases new-latest/on-the-air new-latest/airing-today new-latest/airing-shows
+          else
+            python scripts/build_covers.py all
+          fi
+      - name: Commit
+        run: |
+          git config user.name "covers-bot"
+          git config user.email "covers-bot@users.noreply.github.com"
+          git add xp
+          git diff --cached --quiet || git commit -m "Update covers"
+          git push
