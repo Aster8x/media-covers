@@ -1,0 +1,929 @@
+{
+ "trending/popular": {
+  "t": "POPULAR",
+  "b": [
+   "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+   "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+   "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+   "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg"
+  ]
+ },
+ "trending/trakt-trending": {
+  "t": "TRAKT TRENDING",
+  "b": [
+   "/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+   "/wYI3r4DGKhwjPoDpfPfGdLMrPLt.jpg",
+   "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+   "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
+  ]
+ },
+ "trending/trakt-popular": {
+  "t": "TRAKT POPULAR",
+  "b": [
+   "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+   "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+   "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+   "/heZQmyNvkH236ha2M3JckdUQQqb.jpg"
+  ]
+ },
+ "trending/trakt-anticipated": {
+  "t": "TRAKT ANTICIPATED",
+  "b": [
+   "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+   "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+   "/fUcT8bcJD3SZsy84Z9QRP6kOS7v.jpg",
+   "/wHbZr627WHFPMpfskRwX6NBgjxv.jpg"
+  ]
+ },
+ "trending/imdb-top-100": {
+  "t": "IMDB TOP 100",
+  "b": [
+   "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+   "/2W2k9vb7tyFVmQ1yEb0P2vCBSeE.jpg",
+   "/4klejBUCWsq2F9GHB5EH5mQdFOg.jpg",
+   "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg"
+  ]
+ },
+ "trending/most-popular-top-20": {
+  "t": "MOST POPULAR (TOP 20)",
+  "b": [
+   "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+   "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+   "/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+   "/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg"
+  ]
+ },
+ "new-latest/airing-today": {
+  "t": "AIRING TODAY",
+  "b": [
+   "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+   "/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
+   "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+   "/vuajwjep1FxphPhMEWKv4bfrCnf.jpg"
+  ]
+ },
+ "new-latest/latest-releases": {
+  "t": "LATEST RELEASES",
+  "b": [
+   "/4j1e7Gol1rM2uscJbEcJ3kEmzJn.jpg",
+   "/b17UWf3LqHgKolQkXckne32qv0.jpg",
+   "/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
+   "/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
+  ]
+ },
+ "new-latest/blu-ray-releases": {
+  "t": "BLU-RAY RELEASES",
+  "b": [
+   "/mbVx1IL2wx66171Kpr7vTmLssx.jpg",
+   "/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+   "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+   "/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg"
+  ]
+ },
+ "new-latest/airing-shows": {
+  "t": "AIRING SHOWS",
+  "b": [
+   "/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
+   "/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+   "/n0RJ41WxoROYkKOdJP0NU1hEktJ.jpg",
+   "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg"
+  ]
+ },
+ "new-latest/nyt-best-of-2025": {
+  "t": "NYT BEST OF 2025",
+  "b": [
+   "/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+   "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+   "/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
+   "/ickUXG5jIuBmjgiLIjseX8nlm6M.jpg"
+  ]
+ },
+ "streaming/prime-video": {
+  "t": "PRIME VIDEO",
+  "b": [
+   "/bHfGHipZ32Oec94FDJO4mWs3aZ5.jpg",
+   "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+   "/lTYGtgDRygku7iiFLWyiEc4wLzz.jpg",
+   "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg"
+  ]
+ },
+ "streaming/disney": {
+  "t": "DISNEY+",
+  "b": [
+   "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+   "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+   "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+   "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg"
+  ]
+ },
+ "streaming/hbo-max": {
+  "t": "HBO MAX",
+  "b": [
+   "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+   "/1yktYsxkmUtUFTUnCAUaqG6FEiz.jpg",
+   "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+   "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg"
+  ]
+ },
+ "streaming/apple-tv": {
+  "t": "APPLE TV+",
+  "b": [
+   "/4avmIRBBOs9b4DKoenf8SWWJJP7.jpg",
+   "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+   "/7bjaAcbrJDVvdF2Uew6rGp9Tp05.jpg",
+   "/4ItXEyVPj6wb9AdhsltcqYE6f5f.jpg"
+  ]
+ },
+ "streaming/paramount": {
+  "t": "PARAMOUNT+",
+  "b": [
+   "/5jnoAA74Qwb5w6B9FMvnc20n6Ie.jpg",
+   "/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
+   "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+   "/pTwF9hLkqAtuOqXMdOyPwz4AgnI.jpg"
+  ]
+ },
+ "streaming/hulu": {
+  "t": "HULU",
+  "b": [
+   "/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+   "/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg",
+   "/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+   "/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg"
+  ]
+ },
+ "streaming/peacock": {
+  "t": "PEACOCK",
+  "b": [
+   "/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+   "/jovIEk4cAxWmA2dBcPrfhn3jzYN.jpg",
+   "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+   "/c5MCkebYhFuhmi32x760HfcvLIO.jpg"
+  ]
+ },
+ "streaming/shudder": {
+  "t": "SHUDDER",
+  "b": [
+   "/i9oyhCYxIYH2082J0Rc3a3jQjRB.jpg",
+   "/jgGP3HxKUrYM7sPIFVH7L0k8Mmq.jpg",
+   "/kYWk8TW5TkpCWkB0mkUm72N0lb8.jpg",
+   "/pXn6x9SILzNT0ECPz87iEwyybA9.jpg"
+  ]
+ },
+ "streaming/crunchyroll": {
+  "t": "CRUNCHYROLL",
+  "b": [
+   "/q62ZISQcYEQdiQkGCb20VpPljJO.jpg",
+   "/e3FcsFvnf5g04kvlokN2qu1e3zf.jpg",
+   "/gcgKSyE2iqwfKWMDZ8TJPxeIu0P.jpg",
+   "/jMSZsWqICQAhkrne31yjHJgzhfR.jpg"
+  ]
+ },
+ "streaming/mgm": {
+  "t": "MGM+",
+  "b": [
+   "/frqahc6v8wt0p2Zo3XKBu2dg73z.jpg",
+   "/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg",
+   "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+   "/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg"
+  ]
+ },
+ "streaming/discovery": {
+  "t": "DISCOVERY+",
+  "b": [
+   "/llOfgovcc7Z3Q3p8dtQ7rJSQRnv.jpg",
+   "/8XpdtLahoQ0dem3wQ4ksTUsXk51.jpg",
+   "/vSNFvZObnWQtQ2JraDULxG3fE5J.jpg",
+   "/8IGhddolsygxhea8cWYwSb9AHxa.jpg"
+  ]
+ },
+ "studios/marvel": {
+  "t": "MARVEL",
+  "b": [
+   "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+   "/l1ORpdYr8uFZ9MNYKoq1p6fIc4M.jpg",
+   "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+   "/jJvrPQAHFKmz4pVano4UtWTsRgA.jpg"
+  ]
+ },
+ "studios/dc": {
+  "t": "DC",
+  "b": [
+   "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+   "/9WoLTsRgrupkvCgs3bhsl2EjLhs.jpg",
+   "/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+   "/rlay2M5QYvi6igbGcFjq8jxeusY.jpg"
+  ]
+ },
+ "studios/a24": {
+  "t": "A24",
+  "b": [
+   "/4rLaMBcCJ1pMq72vCulBMPsbAyh.jpg",
+   "/9Sl9oyD2rrFKbCWvWiHQifwOoTn.jpg",
+   "/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+   "/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg"
+  ]
+ },
+ "studios/pixar": {
+  "t": "PIXAR",
+  "b": [
+   "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+   "/hwwFyowfcbLRVmRBOkvnABBNIOs.jpg",
+   "/nsfVr4QbbunUrHINN9N7JdVAMTf.jpg",
+   "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg"
+  ]
+ },
+ "studios/disney-animated": {
+  "t": "DISNEY ANIMATED",
+  "b": [
+   "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+   "/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+   "/nI6uOh8rENInVQL5kvtKt8S9lE8.jpg",
+   "/3IFRjBDwtk0DlIsDfJ2zEzLjUBi.jpg"
+  ]
+ },
+ "studios/studio-ghibli": {
+  "t": "STUDIO GHIBLI",
+  "b": [
+   "/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+   "/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
+   "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+   "/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg"
+  ]
+ },
+ "studios/lucasfilm": {
+  "t": "LUCASFILM",
+  "b": [
+   "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+   "/rrQJwg3jFQasEilhmq8TMpGocb1.jpg",
+   "/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+   "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg"
+  ]
+ },
+ "studios/warner-bros": {
+  "t": "WARNER BROS",
+  "b": [
+   "/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
+   "/5a7lMDn3nAj2ByO0X1fg6BhUphR.jpg",
+   "/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+   "/AVWlQpVhpudyFsSh3OQIieHHYf.jpg"
+  ]
+ },
+ "studios/blumhouse": {
+  "t": "BLUMHOUSE",
+  "b": [
+   "/7t6f6VxA2ZXbbZSVctgt7bZG2DI.jpg",
+   "/3yQV8aUxMYeSCVF6R5Q6xcaMZsl.jpg",
+   "/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+   "/laWV5ohHOxYnCkvrJcZf6IDOIDO.jpg"
+  ]
+ },
+ "studios/universal-pictures": {
+  "t": "UNIVERSAL PICTURES",
+  "b": [
+   "/gBmrsugfWpiXRh13Vo3j0WW55qD.jpg",
+   "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+   "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+   "/xtHonIIIQXverDQM08TMQXjn9Fe.jpg"
+  ]
+ },
+ "studios/sony-pictures": {
+  "t": "SONY PICTURES",
+  "b": [
+   "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+   "/cw1BkYi8bP62hTw5HoEngVZfTTw.jpg",
+   "/2h7v7e9zcCripIdieTQ0bWIR0V9.jpg",
+   "/6hssitVStllb62WlOpub0WsCdBB.jpg"
+  ]
+ },
+ "studios/paramount-pictures": {
+  "t": "PARAMOUNT PICTURES",
+  "b": [
+   "/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+   "/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+   "/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+   "/sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg"
+  ]
+ },
+ "genres/comedy": {
+  "t": "COMEDY",
+  "b": [
+   "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+   "/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+   "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+   "/dNCK3daKbOi6IHSsM9O2Nwyd91Y.jpg"
+  ]
+ },
+ "genres/drama": {
+  "t": "DRAMA",
+  "b": [
+   "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+   "/zKoBjLggS4v22a9ZiCvmLaZrht7.jpg",
+   "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+   "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg"
+  ]
+ },
+ "genres/sci-fi": {
+  "t": "SCI-FI",
+  "b": [
+   "/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+   "/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+   "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+   "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg"
+  ]
+ },
+ "genres/horror": {
+  "t": "HORROR",
+  "b": [
+   "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+   "/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+   "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+   "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg"
+  ]
+ },
+ "genres/crime": {
+  "t": "CRIME",
+  "b": [
+   "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+   "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+   "/cFcXilLbI7yjPIYB58AZiOyUnoh.jpg",
+   "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg"
+  ]
+ },
+ "genres/fantasy": {
+  "t": "FANTASY",
+  "b": [
+   "/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
+   "/1esAE8sLJRWWFsLLeh5r3g2WanI.jpg",
+   "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+   "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg"
+  ]
+ },
+ "genres/mystery": {
+  "t": "MYSTERY",
+  "b": [
+   "/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+   "/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+   "/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+   "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg"
+  ]
+ },
+ "genres/romance": {
+  "t": "ROMANCE",
+  "b": [
+   "/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
+   "/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
+   "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+   "/7y8zWGEjs7tresw4Hzkkf4TdkcL.jpg"
+  ]
+ },
+ "genres/thrillers": {
+  "t": "THRILLERS",
+  "b": [
+   "/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+   "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+   "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+   "/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
+  ]
+ },
+ "genres/documentaries": {
+  "t": "DOCUMENTARIES",
+  "b": [
+   "/qPlAgjG4xy7utjf5L14FZ8kaiWl.jpg",
+   "/1iroQlJdPccnoUi4PGsIRFWPLBV.jpg",
+   "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+   "/4m8yq8vEVGVcmOxO39j1Yz8ry1s.jpg"
+  ]
+ },
+ "genres/animated": {
+  "t": "ANIMATED",
+  "b": [
+   "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+   "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+   "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+   "/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg"
+  ]
+ },
+ "genres/bollywood": {
+  "t": "BOLLYWOOD",
+  "b": [
+   "/u060S4drIWntmLeMDGe7mD0V6Jh.jpg",
+   "/8QRMlkCMFNKZM2ApnIaut5t4snf.jpg",
+   "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+   "/psT4PAYJl2uQgdq8HLSmH9JOTPx.jpg"
+  ]
+ },
+ "genres/westerns": {
+  "t": "WESTERNS",
+  "b": [
+   "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+   "/u5IhDThM1SClL4pkCUp8hOmsDQJ.jpg",
+   "/2oZklIzUbvZXXzIFzv7Hi68d6xf.jpg",
+   "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg"
+  ]
+ },
+ "genres/sports": {
+  "t": "SPORTS",
+  "b": [
+   "/pYeiEm55NySzK9ksKlQGlFQNapz.jpg",
+   "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+   "/tGOfacXHjOSjsFCOcGN7IwdeipF.jpg",
+   "/v9AghOkrVgoah0X9p1peshJY64W.jpg"
+  ]
+ },
+ "genres/musicals": {
+  "t": "MUSICALS",
+  "b": [
+   "/fIbr7oWorx5rOzdjOiIFtfFUXzp.jpg",
+   "/vlrRGSoCpoSoVzX9Y1JS6rni3Ym.jpg",
+   "/lHPap2xBR7DgWLiu6RsfKESgzAi.jpg",
+   "/qz7B5uDspnkoz068wLbLnleotwV.jpg"
+  ]
+ },
+ "genres/k-drama": {
+  "t": "K-DRAMA",
+  "b": [
+   "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+   "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+   "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+   "/2meX1nMdScFOoV4370rqHWKmXhY.jpg"
+  ]
+ },
+ "genres/anime": {
+  "t": "ANIME",
+  "b": [
+   "/usrUizny0dLNJTrrJSxsvu5V0z0.jpg",
+   "/75nSb1fbWooipwcSU5bUttiOriI.jpg",
+   "/5qNBH6tY6Jihzo9SqzvrJFHMPgz.jpg",
+   "/yPRnoFEhj09i824pqmE2cwfedsN.jpg"
+  ]
+ },
+ "genres/spy-thrillers": {
+  "t": "SPY THRILLERS",
+  "b": [
+   "/19zqLF8PKpVuhCs1CZmvzLfyZqQ.jpg",
+   "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+   "/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+   "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg"
+  ]
+ },
+ "genres/war": {
+  "t": "WAR",
+  "b": [
+   "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
+   "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+   "/cXr5YOMJKZBkokgNogHjEyFZLc6.jpg",
+   "/8r4Fk4GZMPZGRBjxFJsZjJICj0O.jpg"
+  ]
+ },
+ "genres/adventure": {
+  "t": "ADVENTURE",
+  "b": [
+   "/heZQmyNvkH236ha2M3JckdUQQqb.jpg",
+   "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+   "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+   "/rueyXwlewVPAP5NkqCUJx4RjhqB.jpg"
+  ]
+ },
+ "genres/family": {
+  "t": "FAMILY",
+  "b": [
+   "/3AXR3AFTHdU38OR14jfcK8FjJ5H.jpg",
+   "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+   "/hDwl0YMxwGhNe7u8wgHHk2Hyw3W.jpg",
+   "/jvpkBenB6hv19WWYVlaiow8zklq.jpg"
+  ]
+ },
+ "genres/history": {
+  "t": "HISTORY",
+  "b": [
+   "/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+   "/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+   "/E812GNXYQqjJwN0cVPY3icHpaj.jpg",
+   "/p6BABpsKhAgFsULPpziZ6HukblJ.jpg"
+  ]
+ },
+ "genres/romantic-comedy": {
+  "t": "ROMANTIC COMEDY",
+  "b": [
+   "/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
+   "/uXJgpBBOxD21X5Q93bZmjNHHdGA.jpg",
+   "/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+   "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg"
+  ]
+ },
+ "themes/mindfuck": {
+  "t": "MIND-BENDERS",
+  "b": [
+   "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+   "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+   "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+   "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg"
+  ]
+ },
+ "themes/plot-twists": {
+  "t": "PLOT TWISTS",
+  "b": [
+   "/gUttUEqsrvaMlK5oL5TSQ54iE96.jpg",
+   "/mQOUyqDybTqxl73hO5LujCZsM1o.jpg",
+   "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+   "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg"
+  ]
+ },
+ "themes/heist": {
+  "t": "HEIST",
+  "b": [
+   "/cVPBT3FqKG3BPXlH4Hg54KHxnqQ.jpg",
+   "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+   "/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+   "/93iDrZmjDF01Tn3PxOYL8Zz9hBM.jpg"
+  ]
+ },
+ "themes/time-travel": {
+  "t": "TIME TRAVEL",
+  "b": [
+   "/hw3XpVWJ0XJlnevjpDHIHO2bY7p.jpg",
+   "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+   "/w6tPctxWAsHoQXeKxxNOT6lYKpx.jpg",
+   "/AtF7TESJEMmImBRUj9Z7HmW2ZH0.jpg"
+  ]
+ },
+ "themes/superhero": {
+  "t": "SUPERHERO",
+  "b": [
+   "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+   "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+   "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+   "/rvtdN5XkWAfGX6xDuPL6yYS2seK.jpg"
+  ]
+ },
+ "themes/zombies": {
+  "t": "ZOMBIES",
+  "b": [
+   "/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+   "/paxjgQ7I2oALdi85F5qw8PBiO2q.jpg",
+   "/xbjOkrAaT4CAIrNJ38oQSBomHvg.jpg",
+   "/3w1MTEvhwPkgPr81wPhFEOXRuel.jpg"
+  ]
+ },
+ "themes/apocalypse": {
+  "t": "APOCALYPSE",
+  "b": [
+   "/jEB9bDNRjV6ziEzrPZrItjZBMx2.jpg",
+   "/tzbYCxJ8hgCXStHihwNGWe1Fdpr.jpg",
+   "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+   "/ulMscezy9YX0bhknvJbZoUgQxO5.jpg"
+  ]
+ },
+ "themes/serial-killer": {
+  "t": "SERIAL KILLER",
+  "b": [
+   "/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+   "/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+   "/qjMDwBWbG5hAP43q3meplZFreFQ.jpg",
+   "/k6ANeyxAfMRi5xhxIXv1Scn9vc2.jpg"
+  ]
+ },
+ "themes/whodunnit": {
+  "t": "WHODUNNIT",
+  "b": [
+   "/y3uOfZAYwLkbvhunswBCskNMrfI.jpg",
+   "/bnm8GSDuk1geHEKFtS8EgLmFYiL.jpg",
+   "/ouNi8avrGfn4qZPCnQhoq1vj2vM.jpg",
+   "/517uHmTS9Z9nUWBe0gcFaoehNk6.jpg"
+  ]
+ },
+ "themes/time-loop": {
+  "t": "TIME LOOP",
+  "b": [
+   "/1uPcQNsgZIMRZl07rbIuw7EEtwX.jpg",
+   "/6WBVSJcDhamIBUFYAatSMsJjRnP.jpg",
+   "/9XSEL3EMC2D8k4UcYBn8etgRxPg.jpg",
+   "/hiZLoo6joFeqkPZRlvG1zEw5q0.jpg"
+  ]
+ },
+ "themes/modern-horror": {
+  "t": "MODERN HORROR",
+  "b": [
+   "/pS9Aub8MPyQbENblGD8mHeaqMuv.jpg",
+   "/mSl9sxOFwBtl2f1FMprrlLqJqON.jpg",
+   "/46Os8U0DEPmI0OnvKDxucl6SLVZ.jpg",
+   "/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg"
+  ]
+ },
+ "themes/horror-classics": {
+  "t": "HORROR CLASSICS",
+  "b": [
+   "/3Y5AcPiWQ3kzyIzdrbdV43dWrgX.jpg",
+   "/6FSs7jMimg1PBYdhZtPNQhtKtEc.jpg",
+   "/4u8XR1ULW6c31l7QRgDZOsrUSra.jpg",
+   "/sEACcNF5lUEJusfiCa8ExwGrbC5.jpg"
+  ]
+ },
+ "themes/outer-space": {
+  "t": "OUTER SPACE",
+  "b": [
+   "/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg",
+   "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+   "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+   "/cAiIfkihKJS6LF9nZEqXRZrtDY3.jpg"
+  ]
+ },
+ "themes/true-crime": {
+  "t": "TRUE CRIME",
+  "b": [
+   "/hwn9CN2x5Qhm3laLRvZlXttL6LU.jpg",
+   "/fCOIOhteWbyvSKLyJrMrvh04U6G.jpg",
+   "/1jLaJPdu7dMl0Nk3vLuafDx9PWS.jpg",
+   "/gpyu3jQeMQeUFAVjCSrVCrYYK3f.jpg"
+  ]
+ },
+ "world/korean": {
+  "t": "KOREAN",
+  "b": [
+   "/nHWr40LGgyxymEhZCOA2WHATPpn.jpg",
+   "/qLQiQXe8tHk8mokDH0LoKudPDH3.jpg",
+   "/218MafWtM9XpPRuNdh0uhrNezi5.jpg",
+   "/iGViga8sDCET1S6GfwOlAbuhSGQ.jpg"
+  ]
+ },
+ "world/japanese": {
+  "t": "JAPANESE",
+  "b": [
+   "/wghKvEjM7UzQzQcKnGbDjOyQO13.jpg",
+   "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+   "/rV9MLgLm4i5ImuhhqdJ2fa7JMc2.jpg",
+   "/tb0uo01w2kDHiQwTszsLlSusAm4.jpg"
+  ]
+ },
+ "world/french": {
+  "t": "FRENCH",
+  "b": [
+   "/HGmX2QmO1a67a1awAfHFEnDCiF.jpg",
+   "/7UABiSiMvOKXU6kxNrStIUo2IVM.jpg",
+   "/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+   "/fofQL71uayzxmHj3YS9HeLoo4SH.jpg"
+  ]
+ },
+ "world/spanish": {
+  "t": "SPANISH",
+  "b": [
+   "/ppLv2F7dhvI3wxaEoOP1E0OyBPP.jpg",
+   "/cwHQRDAqkz92TyFbE9Cp5sUvVyA.jpg",
+   "/et4FH70ubabgo6PJlPnFPrAGVuc.jpg",
+   "/tUBN1paMQ1tmVA5Sjy1ZjPWVsiF.jpg"
+  ]
+ },
+ "world/italian": {
+  "t": "ITALIAN",
+  "b": [
+   "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+   "/9YxbcSw8CmzNrmyhtCLNz3RgQF.jpg",
+   "/n7wHpEFThBgm15bUH7e07frPJvV.jpg",
+   "/c6hFzNJIAGT84E6SfuuqEZNJlqH.jpg"
+  ]
+ },
+ "world/chinese": {
+  "t": "CHINESE",
+  "b": [
+   "/1DTIRhw4cpLJlHlrPPbKzq6amHc.jpg",
+   "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+   "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+   "/xqft4oJyMATznCFFLpTlQPiSr8N.jpg"
+  ]
+ },
+ "world/german": {
+  "t": "GERMAN",
+  "b": [
+   "/aUfAbn4WXkioO5FPKAyxnVGaVqg.jpg",
+   "/zICIR1kQERtCFa9Ybn6c6n8zIXv.jpg",
+   "/p9R163gjE6Z5g4eWY1qnvU4vbW2.jpg",
+   "/djPUo00dbry1frPzDLD5dgsmG7e.jpg"
+  ]
+ },
+ "world/portuguese": {
+  "t": "PORTUGUESE",
+  "b": [
+   "/23ejgG8aYI702wq6l2uvc0GeWfk.jpg",
+   "/nhsC7Q1Zb5n2p4H3UKy422zP5XC.jpg",
+   "/jIND6Q2Jc6Kfp4fLzgzf5an1C3s.jpg",
+   "/lM7whuu1XTr5rEDqEbTTtWoue9.jpg"
+  ]
+ },
+ "world/russian": {
+  "t": "RUSSIAN",
+  "b": [
+   "/xTLSA6areOJIf4dDNdhjOjiz68V.jpg",
+   "/vlyHjiyNbZcEQ7O8TXVWaprldu8.jpg",
+   "/MrnSQzIwftHPAXJa9DrkebfnXu.jpg",
+   "/fRjy6zDeNjfzmjpKz8mElA9Aa6l.jpg"
+  ]
+ },
+ "world/turkish": {
+  "t": "TURKISH",
+  "b": [
+   "/sGPoP2RYLifBh9ZYFVn2H74r9RW.jpg",
+   "/mKlBeUZvmHUbo4LObp7OvLVkL2G.jpg",
+   "/33rSMFn0mcCOo1W6sQ4AbzHTgXV.jpg",
+   "/uxrsznMDPgsGDqiZ7UkkFgBEglM.jpg"
+  ]
+ },
+ "decades/2020s": {
+  "t": "2020S",
+  "b": [
+   "/4pYKqctQvvdyhuGjiK4szH9jEv9.jpg",
+   "/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+   "/zbpimMxf6Ms96v3Zypuv8WltMSO.jpg",
+   "/3icyRAqgakNcQn6aDVz9libFmBA.jpg"
+  ]
+ },
+ "decades/2010s": {
+  "t": "2010S",
+  "b": [
+   "/jK65srQczOKTpW62wPxwwKztGgE.jpg",
+   "/86IbFy98QjRIqg6WanKYb9tXNbJ.jpg",
+   "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+   "/lV1P1Q5gLDXVG1ZYCxZHStkcQC3.jpg"
+  ]
+ },
+ "decades/2000s": {
+  "t": "2000S",
+  "b": [
+   "/nuO8o9ltxhI7AZQxePavEZ4TyHa.jpg",
+   "/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
+   "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+   "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg"
+  ]
+ },
+ "decades/1990s": {
+  "t": "1990S",
+  "b": [
+   "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+   "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+   "/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg",
+   "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg"
+  ]
+ },
+ "decades/1980s": {
+  "t": "1980S",
+  "b": [
+   "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+   "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+   "/dtEkXmWPRwja6CtwPFcVpuMb7tW.jpg",
+   "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg"
+  ]
+ },
+ "decades/1970s": {
+  "t": "1970S",
+  "b": [
+   "/ko7hMSCtXoJFfpYAIbrowwgH0eq.jpg",
+   "/uh1zf6Q0UcHaqWQXZXu1qOOSCRg.jpg",
+   "/rnMwOM8gMqo6Gf6XXMpaJEayUwk.jpg",
+   "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg"
+  ]
+ },
+ "decades/1960s": {
+  "t": "1960S",
+  "b": [
+   "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+   "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+   "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+   "/q7fBDmVcU0MWkc8sWt9IKj6YbVd.jpg"
+  ]
+ },
+ "decades/1950s-before": {
+  "t": "1950S & BEFORE",
+  "b": [
+   "/5bN06p5OwRUEqcfrtNs5egV16yb.jpg",
+   "/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+   "/5Pk1rGAtyblh9Xaq72T7ARCQSDQ.jpg",
+   "/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg"
+  ]
+ },
+ "awards/academy-awards": {
+  "t": "ACADEMY AWARDS",
+  "b": [
+   "/hiazLNa1UXuX35OTnMQRKOx3eTk.jpg",
+   "/88nIQnyDyYfEpR7s9hwbfhJuxK9.jpg",
+   "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+   "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
+  ]
+ },
+ "awards/golden-globes": {
+  "t": "GOLDEN GLOBES",
+  "b": [
+   "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+   "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+   "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+   "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg"
+  ]
+ },
+ "awards/festival-de-cannes": {
+  "t": "FESTIVAL DE CANNES",
+  "b": [
+   "/rCYzSP07jCA1HuFvrwgaEAPHitT.jpg",
+   "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+   "/88nIQnyDyYfEpR7s9hwbfhJuxK9.jpg",
+   "/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg"
+  ]
+ },
+ "awards/bafta-awards": {
+  "t": "BAFTA AWARDS",
+  "b": [
+   "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+   "/xBwtP27cx8WfjHJVFkpuV6F1RES.jpg",
+   "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg",
+   "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg"
+  ]
+ },
+ "awards/primetime-emmy-awards": {
+  "t": "PRIMETIME EMMY AWARDS",
+  "b": [
+   "/qqqo3P0txcP5ES3ZQ7YR4SmUwam.jpg",
+   "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+   "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+   "/4bG49jVR7NrCNQjahDUsDqvIwle.jpg"
+  ]
+ },
+ "awards/venice-film-festival": {
+  "t": "VENICE FILM FESTIVAL",
+  "b": [
+   "/9Xx0BCkxDsF47niAPsb8lQ0O9Qu.jpg",
+   "/zh6IdheEYinU4TPtorWsjx6qPQE.jpg",
+   "/anw7ONmtm1BrHd1Du0GQ5FoNd6r.jpg",
+   "/gJUDmMfeoVopMNwWRmswWJQu4km.jpg"
+  ]
+ },
+ "awards/berlinale": {
+  "t": "BERLINALE",
+  "b": [
+   "/gtIr9Cy7yIdgzVJdBSnaf2AgzlV.jpg",
+   "/uEj5FORyXDAG7v2YaT7Zlr8QAJm.jpg",
+   "/aHAHmatqL6fuXJo9SCBRyadoW9c.jpg",
+   "/wP28rWRjcD1994uSLXAg0MZmUK7.jpg"
+  ]
+ },
+ "awards/sundance-film-festival": {
+  "t": "SUNDANCE FILM FESTIVAL",
+  "b": [
+   "/aNzvd95YGOD9c2Pz4bVO6XVpvuV.jpg",
+   "/bKCpRjjTKcr3KAITmwjVMobbBYg.jpg",
+   "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg",
+   "/4LFJwYtjvlWFqri9IwAZxLR0xyx.jpg"
+  ]
+ },
+ "trending/for-you-top-100-today": {
+  "t": "FOR YOU (TOP 100 TODAY)",
+  "b": [
+   "/edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
+   "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+   "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+   "/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg"
+  ]
+ },
+ "trending/trending": {
+  "t": "TRENDING",
+  "b": [
+   "/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+   "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
+   "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+   "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg"
+  ]
+ },
+ "new-latest/digital-releases": {
+  "t": "DIGITAL RELEASES",
+  "b": [
+   "/gU93hJIAVsx088tBVumH3Z0jPVM.jpg",
+   "/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+   "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+   "/lRi60HBL9fDd3MlouxJU0OUgR2j.jpg"
+  ]
+ },
+ "genres/action": {
+  "t": "ACTION",
+  "b": [
+   "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+   "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+   "/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+   "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg"
+  ]
+ },
+ "streaming/netflix": {
+  "t": "NETFLIX",
+  "b": [
+   "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+   "/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+   "/a8w3luV9uCjveB8v7grHfvXVOFJ.jpg",
+   "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg"
+  ]
+ },
+ "new-latest/on-the-air": {
+  "t": "ON THE AIR",
+  "b": [
+   "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+   "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+   "/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+   "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg"
+  ]
+ }
+}
