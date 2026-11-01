@@ -925,5 +925,13 @@
    "/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
    "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg"
   ]
+ },
+ "studios/adult-swim": {
+  "t": "ADULT SWIM",
+  "b": [],
+  "q": [
+   "discover/tv?with_networks=80&sort_by=popularity.desc&include_adult=false",
+   "discover/tv?with_networks=80&sort_by=vote_count.desc&include_adult=false"
+  ]
  }
 }
